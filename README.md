@@ -1,6 +1,6 @@
 # 🚀 Cristian Alexandru Badea
 
-### 💼 Software Engineering Manager | Senior Full-Stack Engineer | Cloud Architect
+### 💼 Software Engineer
 
 ---
 

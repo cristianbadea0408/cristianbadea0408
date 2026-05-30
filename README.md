@@ -19,6 +19,9 @@ Focus:
   - Team Leadership
   - DevOps Engineering
 ```
+<p align="right">
+  <img src="https://github.com/cristianbadea0408/cristianbadea0408/blob/main/cristian.png" />
+</p>
 
 🚀 Passionate about designing scalable enterprise systems and leading high-performing engineering teams.
 
